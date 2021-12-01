@@ -1,2 +1,0 @@
-# testeofch
-Тестовая repl.py
